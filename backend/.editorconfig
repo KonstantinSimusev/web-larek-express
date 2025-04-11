@@ -5,6 +5,9 @@
 root = true
 
 [*]
+# Используем одинарные кавычки вместо двойных
+quote_type = single
+
 # Indentation style
 # Possible values - tab, space
 indent_style = space
